@@ -1,4 +1,3 @@
-"# guessmynumber" 
 # Guessmynumber
 
 Guess the number game!
